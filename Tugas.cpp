@@ -5,5 +5,5 @@ int main(){
 	int x;
 	int y;
 	double f;
-	count << "Tugas";
+	count << "Tugas hasil ubahan";
 }
