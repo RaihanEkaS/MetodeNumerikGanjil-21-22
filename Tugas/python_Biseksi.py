@@ -30,6 +30,7 @@ def bisection(a,b,galaterror,maxIterate):
 		else: 
 			a = c 
 
+			
 	print("Nilai Akar dari persamaan tersebut : ","%.5f"%c) #Memberitahu Nilai Akar
 	print("Iterasi ke: ","%d"%iterasi) #Memberitahu Perulangan ke berapa
 
