@@ -48,5 +48,6 @@ e = float(e)
 # Converting N to integer
 N = int(N)
 
+
 # Starting Newton Raphson Method
 newtonRaphson(x0,e,N)
